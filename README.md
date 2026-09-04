@@ -101,6 +101,6 @@ The model is trained on the included ecommerce customer dataset using linear reg
 
 **Name:** Aakash Singh (kushwah/rajawat)<br>
 **GitHub:** [your-github-username](https://github.com/aakashsinghrajawat)<br>
-**Email:** your.email@example.com
+**Email:** aakashrajawat75@email.com
 
 Replace the placeholder author details above before publishing the repository.
