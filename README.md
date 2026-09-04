@@ -8,6 +8,12 @@ The project includes a Jupyter notebook for exploration, a reproducible model-tr
 
 The Streamlit app accepts four customer measurements and returns an estimated yearly spend. It also displays a simple monthly equivalent by dividing the yearly prediction by 12.
 
+### Intro Video
+
+<video src="./intro.mp4" controls width="100%"></video>
+
+If the player is not displayed in your GitHub view, [open the intro video directly](./intro.mp4).
+
 ## Features
 
 - Exploratory data analysis in `customer.ipynb`
